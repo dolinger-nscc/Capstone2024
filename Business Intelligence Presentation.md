@@ -5,10 +5,11 @@
 - Significance of data-driven decision-making
 - Goals of the presentation
 
-## <img src="[url_to_image](https://github.com/dolinger-nscc/Capstone2024/blob/main/img/icons8-rocket-50.png?raw=true)" alt="Sized Rocket" width="25px" height="25px">
-Presentation Candidate
+## Presentation Candidate
 - Name and professional background
 - Experience with business intelligence tools and methodologies
+
+<img src="https://github.com/dolinger-nscc/Capstone2024/blob/main/img/icons8-rocket-50.png?raw=true" alt="Sized Rocket" width="25px" height="25px">
 
 ## Data Selection
 - Criteria for choosing the dataset
