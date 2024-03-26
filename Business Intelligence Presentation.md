@@ -1,6 +1,6 @@
 # Business Intelligence Presentation Proposal
 
-## ![My Rocket](https://github.com/dolinger-nscc/Capstone2024/blob/main/img/icons8-rocket-100.png?raw=true) Introduction
+## ![My Rocket](https://github.com/dolinger-nscc/Capstone2024/blob/main/img/icons8-rocket-50.png?raw=true) Introduction
 - Overview of the business intelligence topic
 - Significance of data-driven decision-making
 - Goals of the presentation
