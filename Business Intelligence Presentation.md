@@ -1,5 +1,5 @@
 <div style="background-color: #228B22; color: #DAA520; padding: 10px;">
-    <h4>Business Intelligence Presentation Proposal</h4>
+    <h1>Business Intelligence Presentation Proposal</h1>
 </div>
 
 ## ![My Rocket](https://github.com/dolinger-nscc/Capstone2024/blob/main/img/icons8-rocket-50.png?raw=true) Introduction
