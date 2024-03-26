@@ -1,5 +1,5 @@
-<p>
-<img src="https://github.com/dolinger-nscc/Capstone2024/blob/main/img/icons8-rocket-50.png?raw=true" alt="Sized Rocket" width="25px" height="25px">
+<p align="center">
+<img src="https://github.com/dolinger-nscc/Capstone2024/blob/main/img/icons8-rocket-50.png?raw=true" alt="Sized Rocket" width="100px" height="100px">
 </p>
 
 <div style="background-color: #228B22; color: #DAA520; padding: 10px;">
