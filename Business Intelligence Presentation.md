@@ -2,11 +2,12 @@
 <img src="https://github.com/dolinger-nscc/Capstone2024/blob/main/img/icons8-rocket-50.png?raw=true" alt="Sized Rocket" width="100px" height="100px">
 </p>
 
-<p> {
+p {
       background-color: lightblue;
       color: white;
     }
-    <h1>Business Intelligence Presentation Proposal</h1>
+    
+<p>    <h1>Business Intelligence Presentation Proposal</h1>
 </p>
 
 ## ![My Rocket](https://github.com/dolinger-nscc/Capstone2024/blob/main/img/icons8-rocket-50.png?raw=true) Introduction
